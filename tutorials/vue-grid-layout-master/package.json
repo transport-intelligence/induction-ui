@@ -36,10 +36,10 @@
     "babel-preset-es2015-loose": "*",
     "babel-preset-stage-1": "*",
     "cross-env": "*",
-    "css-loader": "*",
+    "css-loader": "^3.6.0",
     "file-loader": "*",
     "vue": "*",
-    "vue-loader": "*",
+    "vue-loader": "^15.9.3",
     "vue-template-compiler": "*",
     "webpack": "*",
     "webpack-dev-server": "*"
