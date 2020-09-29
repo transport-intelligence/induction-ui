@@ -25,7 +25,7 @@
   "author": "Gustavo Santos (JBay Solutions) <gustavo.santos@jbaysolutions.com> (http://www.jbaysolutions.com)",
   "dependencies": {
     "element-resize-detector": "*",
-    "interactjs": "*"
+    "interactjs": "^1.9.22"
   },
   "devDependencies": {
     "babel-core": "*",
@@ -37,11 +37,11 @@
     "babel-preset-stage-1": "*",
     "cross-env": "*",
     "css-loader": "^3.6.0",
-    "file-loader": "*",
-    "vue": "*",
+    "file-loader": "^6.1.0",
+    "vue": "^2.6.12",
     "vue-loader": "^15.9.3",
-    "vue-template-compiler": "*",
-    "webpack": "*",
+    "vue-template-compiler": "^2.6.12",
+    "webpack": "^4.44.2",
     "webpack-dev-server": "*"
   },
   "license": "MIT"
